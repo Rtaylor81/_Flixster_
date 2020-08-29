@@ -22,7 +22,7 @@ This project lets users view a list of movies sourced from the The Movie Databas
 
 
 ### App Walkthough GIF
-<img src=FlixsterWalkthrough.gif>
+<img src=FlixWalkthrough.gif>
 
 
 ### Open-source libraries used
