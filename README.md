@@ -19,7 +19,7 @@
 ### App Walkthough GIF
 
 
-<img src=FlixWalkthrough.gif>
+<img src=91120FlixWalkthrough.gif>
 
 
 ## Open-source libraries used
